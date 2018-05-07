@@ -1,0 +1,5 @@
+com\telstra\gw\models\Product.class
+com\telstra\gw\parser1\JAXbXPath.class
+com\telstra\gw\app\Application.class
+com\telstra\gw\app\Application$1.class
+com\telstra\gw\listener\ReadMessage.class
